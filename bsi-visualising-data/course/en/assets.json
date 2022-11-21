@@ -1,0 +1,323 @@
+{
+  "451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg": {
+    "title": "Connected blue lights",
+    "description": "Connected blue lights",
+    "source": "https://www.pexels.com/photo/abstract-art-blur-bright-373543/",
+    "licence": "CC0",
+    "attribution": "Pixabay",
+    "tags": []
+  },
+  "69b1513ad3ced09c1fbc24ef1bcba4f487778ff0.jpg": {
+    "title": "Grey scale image of clock",
+    "description": "Grey scale image of clock",
+    "source": "https://unsplash.com/photos/mId2gG0a9GU",
+    "licence": "CC0",
+    "attribution": "noor Younis",
+    "tags": []
+  },
+  "6674b6d19f88e77b508eaea51cc20c51c91e6fcf.png": {
+    "title": "EDP logo",
+    "description": "EDP logo",
+    "source": "https://www.europeandataportal.eu/",
+    "licence": "All rights reserved",
+    "attribution": "European Data Portal",
+    "tags": []
+  },
+  "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
+    "title": "Clipboard Black (NEW)",
+    "description": "Clipboard Black (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "1949700df360ddc39b5615e5a066c8e8a1033bef.jpg": {
+    "title": "Visual cortex (550x370)",
+    "description": "The two-streams hypothesis is a widely accepted and influential model of the neural processing of vision as well as hearing. The hypothesis, given its most popular characterisation in a paper by David Milner and Melvyn A. Goodale in 1992, argues that humans possess two distinct visual systems. However, recently there seems to be evidence of two distinct auditory systems as well. ",
+    "source": " https://en.wikipedia.org/wiki/Two-streams_hypothesis\n",
+    "licence": "All rights reserved",
+    "attribution": "Wikipedia",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      },
+      {
+        "title": "brain",
+        "_id": "60c896a0d0a9ce7fbf3a4ba4"
+      },
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      }
+    ]
+  },
+  "672bf2eb96b5642e5d515626558e12effcde751b.jpg": {
+    "title": "Baseline & Area failure",
+    "description": "Baseline & Area failure",
+    "source": "http://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "Max Van Kleek",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "608686c1d0a9ce7fbf3a2d6b"
+      },
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      },
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      }
+    ]
+  },
+  "758439c9a2b0edc0fbb19e6ed6c66ad1ccd8497d.jpg": {
+    "title": "New York State Expenditure (scaled)",
+    "description": "New York State Expenditure (scaled)",
+    "source": "https://www.edwardtufte.com/tufte/",
+    "licence": "CC-BY",
+    "attribution": "Edward Tufte",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      },
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      },
+      {
+        "title": "Graph",
+        "_id": "608686c1d0a9ce7fbf3a2d6b"
+      }
+    ]
+  },
+  "7c422cfc6ad4640bd456aac607a7d776296f5302.jpg": {
+    "title": "Radius and area fail",
+    "description": "Radius and area fail",
+    "source": "https://www.slideshare.net/ICScreative/fast-cheapgreat-icscreative",
+    "licence": "CC-BY",
+    "attribution": "Slideshare",
+    "tags": [
+      {
+        "title": "Graph",
+        "_id": "608686c1d0a9ce7fbf3a2d6b"
+      },
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      },
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      }
+    ]
+  },
+  "99da2f20fc6d50aa064a09aeb8c2fffd51651480.png": {
+    "title": "Multiple axes baseline failure",
+    "description": "Source: Colorado department of transport (via wtfviz.net) ",
+    "source": "http://www.medicaldaily.com/did-marijuana-legalization-lower-car-accident-deaths-colorado-state-sees-historic-lows-296886",
+    "licence": "CC-BY",
+    "attribution": "Historical Fatal Car Crashes, Colorado Department of Transportation, Colorado Department of Transportation",
+    "tags": [
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      },
+      {
+        "title": "Graph",
+        "_id": "608686c1d0a9ce7fbf3a2d6b"
+      },
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      }
+    ]
+  },
+  "becc93fb17de6ed165b9891abe6fb851775ac273.jpg": {
+    "title": "New York State Expenditure",
+    "description": "New York State Expenditure",
+    "source": "https://www.edwardtufte.com/tufte/",
+    "licence": "CC-BY",
+    "attribution": "Edward Tufte",
+    "tags": [
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      },
+      {
+        "title": "Graph",
+        "_id": "608686c1d0a9ce7fbf3a2d6b"
+      },
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      }
+    ]
+  },
+  "d2445a55c3baba4530ca53aef667079d65b9b497.jpg": {
+    "title": "Human eye",
+    "description": "Illustrious Digital Art: Photo Manipulation Artworks of the Human Eye | Design Juices\nThese digital artworks are big favorites of mine which showcase various forms of digital art skills in which there main subject is the human eye.",
+    "source": "http://www.designjuices.co.uk/2010/05/digital-photo-manipulation-eyes/\n",
+    "licence": "All rights reserved",
+    "attribution": "designjuices.co.uk",
+    "tags": [
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      },
+      {
+        "title": "Photo",
+        "_id": "608686bed0a9ce7fbf3a2cef"
+      },
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      }
+    ]
+  },
+  "d3f89a6758812def9582f6977de3872488742d4c.png": {
+    "title": "Percentages",
+    "description": "Source: wtfviz.net",
+    "source": "unknown",
+    "licence": "unknown",
+    "attribution": "unknown",
+    "tags": []
+  },
+  "df4f58cc130dde9a671827313192401b8cb263ca.jpg": {
+    "title": "Health care pie",
+    "description": "Unhealthy data. ",
+    "source": "http://viz.wtf/post/143590868627/unhealthy-data",
+    "licence": "All rights reserved",
+    "attribution": "WTF Visualizations",
+    "tags": [
+      {
+        "title": "Data",
+        "_id": "608686bed0a9ce7fbf3a2cf4"
+      },
+      {
+        "title": "Finding",
+        "_id": "60c896a0d0a9ce7fbf3a4ba3"
+      },
+      {
+        "title": "EDSA",
+        "_id": "60c896a0d0a9ce7fbf3a4ba2"
+      },
+      {
+        "title": "Graph",
+        "_id": "608686c1d0a9ce7fbf3a2d6b"
+      }
+    ]
+  },
+  "d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png": {
+    "title": "adapt.png",
+    "description": "Adapt logo used in content section of footer",
+    "source": "https://www.adaptlearning.org/",
+    "licence": "CC0",
+    "attribution": "Adapt e-learning",
+    "tags": []
+  },
+  "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
+    "title": "logo-small.png",
+    "description": "ODI logo used in content section of footer",
+    "source": "theodi.org",
+    "licence": "CC0",
+    "attribution": "ODI",
+    "tags": []
+  },
+  "656bdd978bb754f35de54e17c220d0c7640ed106.jpg": {
+    "title": "BSI-logo-master-01.jpg",
+    "description": "BSI Logo",
+    "source": "https://www.bsigroup.com/",
+    "licence": "All rights reserved",
+    "attribution": "BSI ",
+    "tags": [
+      {
+        "title": "BSI",
+        "_id": "61dc2adf134761027a95f69a"
+      }
+    ]
+  },
+  "d4bc14657d8cefb2cf8ce4d8fdaecef6388d2f9a.png": {
+    "title": "CC-BY-SA",
+    "description": "CC-BY-SA \r\nCREATIVE COMMONS",
+    "source": "cc",
+    "licence": "CC-BY",
+    "attribution": "cc",
+    "tags": []
+  },
+  "a5ccedc8761a8f16238cd481c0e04a2627a657b8.jpeg": {
+    "title": "bsi-inverted",
+    "description": "bsi inverted logo",
+    "source": "https://www.bsigroup.com/",
+    "licence": "All rights reserved",
+    "attribution": "bsi",
+    "tags": []
+  },
+  "233929758ec2956bcc271fff2d6600f63e0c82f9.png": {
+    "title": "Screenshot 2022-05-18 at 10.13.52.png",
+    "description": "Bar Chart",
+    "source": "rapidtables.com",
+    "licence": "CC-BY",
+    "attribution": "Bar Chart made with rapid tables",
+    "tags": []
+  },
+  "17af301273f7bc194b613f19a3834993b6baba83.png": {
+    "title": "Line Chart",
+    "description": "line chart made with rapidcharts.com",
+    "source": "rapidcharts.com",
+    "licence": "CC-BY",
+    "attribution": "rapidcharts.com",
+    "tags": []
+  },
+  "dad51f866fa6878cc8281a1b010019ebcbec4268.png": {
+    "title": "Pie Chart",
+    "description": "Pie Chart made with rapidtables.com",
+    "source": "rapidtables.com",
+    "licence": "CC0",
+    "attribution": "rapidtables.com",
+    "tags": []
+  },
+  "e9aa6b28f550516c471634869b1ab5527b51cbcf.jpg": {
+    "title": "ricardo-gomez-angel-KmKZV8pso-s-unsplash (1).jpg",
+    "description": "stadium chairs - colours, telling stories, making information pop",
+    "source": "https://unsplash.com/photos/KmKZV8pso-s",
+    "licence": "CC0",
+    "attribution": "Ricardo Comez",
+    "tags": []
+  },
+  "0e64401da469087594f956c28eb022e43aa33486.jpg": {
+    "title": "rupert-britton-l37N7a1lL6w-unsplash (1).jpg",
+    "description": "using colour rose stories",
+    "source": "https://unsplash.com/photos/l37N7a1lL6w",
+    "licence": "CC0",
+    "attribution": "Rupert Britton",
+    "tags": []
+  },
+  "1bcf293d39a9d1e69bd6d9f3f44abcda9f69dae4.jpg": {
+    "title": "colour information pop",
+    "description": "colour information pop telling stories",
+    "source": "https://unsplash.com/photos/qhfxY3X6JV0",
+    "licence": "CC0",
+    "attribution": "Noah Naf",
+    "tags": []
+  },
+  "a1c0ca6a9611354554cda291ba59d322a6ce4daf.jpg": {
+    "title": "dice illusion",
+    "description": "misrepresent illusion story telling",
+    "source": "https://unsplash.com/photos/vLmo8kAVVt4",
+    "licence": "CC0",
+    "attribution": "Michael Dziedzic",
+    "tags": []
+  },
+  "3fdb9443f41a5d1ad348fd1f9efc0102ea19dc33.png": {
+    "title": "splat red ",
+    "description": "ODI Splat for section view BSI",
+    "source": "ODI",
+    "licence": "CC0",
+    "attribution": "ODI",
+    "tags": []
+  }
+}

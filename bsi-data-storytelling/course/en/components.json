@@ -1,0 +1,1475 @@
+[
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Where is the value?",
+    "displayTitle": "Where is the value?",
+    "body": "<p>Which part of the data storytelling process is of most value to the public?</p>",
+    "_id": "62b06d16134761027a960ea7",
+    "_parentId": "62b06d15134761027a960e88",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The visualisation",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The story",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">The story is the most valuable part of the data storytelling process. It is the story which brings the data and visualisation together with a compelling narrative.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The story is the most valuable part of the data storytelling process. It is the story which brings the data and visualisation together with a compelling narrative.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Checking your data",
+    "displayTitle": "Checking your data",
+    "body": "<p>While gathering data, what is the most important thing to check?</p>",
+    "_id": "62b06d16134761027a960ea8",
+    "_parentId": "62b06d15134761027a960e89",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Your rights to use the data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The quality of the data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The potential to visualise the data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">When gathering data is it important to know your rights to use the data. If you cannot use the data, then checking the quality or suitability for visualisation is simply a waste of your time.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p>When gathering data is it important to know your rights to use the data. If you cannot use the data, then checking the quality or suitability for visualisation is simply a waste of your time.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Planning a project",
+    "displayTitle": "Planning a project",
+    "body": "<p>At what point of the project should you start to develop the narrative of your story?</p>",
+    "_id": "62b06d16134761027a960ea9",
+    "_parentId": "62b06d15134761027a960e8a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Before you gather data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "As you are analysing the data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Once you have visualised the data",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">Framing your narrative before you gather data can help focus the process. Forming a narrative and story at a later stage will mean prior stages of the process are unguided and take longer.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure about that?</strong></p><p dir=\"ltr\">Framing your narrative before you gather data can help focus the whole. Forming a narrative and story at a later stage will mean prior stages of the process are unguided and take longer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Which 3 steps do you need to take when planning your story?",
+    "displayTitle": "Which 3 steps do you need to take when planning your story?",
+    "body": "<p>There are 3 steps you need to take when planning a story. These are...</p>",
+    "_id": "62b06d16134761027a960eaa",
+    "_parentId": "62b06d15134761027a960e8b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Setting the structure, gathering resources, drafting the headline",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Setting the structure, drafting the headline, making it up",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Drafting the story, adding a title, adding pictures",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>Before you start drafting your story, make sure that you know what structure the story will take, that you have the right resources (including data visualisation and any research), and have&nbsp;a catchy headline.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Before you start drafting your story, make sure that you know what structure the story will take, that you have the right resources (including data visualisation and any research), and have&nbsp;a catchy headline.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " How can others help you share your story?",
+    "displayTitle": " How can others help you share your story?",
+    "body": "<p>If you have quoted or mentioned specific people or organisations in your piece, you could...</p>",
+    "_id": "62b06d16134761027a960eab",
+    "_parentId": "62b06d15134761027a960e8c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Put a picture of them in your article",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Ask one of their colleagues or friends to share the article",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Link to their profiles on social media so they will see it and share it",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">Tagging and linking to people's profiles on social media will increase the likelihood that they will share it.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">Tagging and linking to people's profiles on social media will increase the likelihood that they will share it.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960eb5",
+    "_parentId": "62b06d15134761027a960e88",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5c9e219cb126060a7c22bd146c103ffd884b7266.jpg",
+      "small": "course/en/assets/5c9e219cb126060a7c22bd146c103ffd884b7266.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/dW6dFBoHUu4\" target=\"_blank\">Sharon Mccutcheon</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960eb6",
+    "_parentId": "62b06d15134761027a960e89",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "small": "course/en/assets/e1ec5ea9e196c801c86e33b3bb84ca18f533e657.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960eb7",
+    "_parentId": "62b06d15134761027a960e8a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/56150d74f8a3f8a18b2b45023372cd71533796b0.jpg",
+      "small": "course/en/assets/56150d74f8a3f8a18b2b45023372cd71533796b0.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/115327016@N06/15383638574\" target=\"_blank\">vickysandoval22</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960eb8",
+    "_parentId": "62b06d15134761027a960e8b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a26d9b91eba9f9025a4556a164899b8cee790747.jpg",
+      "small": "course/en/assets/a26d9b91eba9f9025a4556a164899b8cee790747.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/bJhT_8nbUA0\" target=\"_blank\">Jukan Tateisi</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960eb9",
+    "_parentId": "62b06d15134761027a960e8c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3fc06bc466b5995592f43cedc21d6f204cf42da3.jpg",
+      "small": "course/en/assets/3fc06bc466b5995592f43cedc21d6f204cf42da3.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/NjirplnVra8\" target=\"_blank\">Priscilla Du Preez</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Planning and framing your story",
+    "displayTitle": "Planning and framing your story",
+    "body": "<p dir=\"ltr\">In order to ensure your blogpost or article is well structured and engaging, it is important to take time to plan and frame your story.&nbsp;</p><p dir=\"ltr\">Before you begin to write, you can follow these simple steps to make sure you have everything you need: setting out your structure, gathering your resources and drafting your headline.</p>",
+    "_id": "62b06d16134761027a960ebf",
+    "_parentId": "62b06d15134761027a960e8f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Plan your time",
+        "body": "<p dir=\"ltr\">It is important to plan your time carefully in any data project. Follow these steps to help you plan efficiently.</p><p dir=\"ltr\">The 80:20 rule for data storytelling</p><p dir=\"ltr\">Gathering, organising, filtering and cleaning of data may take 80% of your time. Done right this can significantly reduce the time you spend in the analysis and visualisation.</p><p dir=\"ltr\">Develop your narrative at the beginning</p><p dir=\"ltr\">Much like research has a hypothesis to test from the start, it is useful to spend the first stages of a project outlining the audience and narrative. This will help keep the dataa collection focussed and time to a minimum.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Set out your structure",
+        "body": "<p dir=\"ltr\">Write a summary of your story with the main points that you want it to cover. It is helpful to use bullet points for this, being sure to cover the beginning, middle and end. (You might tweak these later, after having gathered your resources, but it will help to have this as a basis to draw on in the drafting stage.)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Gather your resources",
+        "body": "<p dir=\"ltr\">Once you have your draft structure set out, you can begin to gather your resources.&nbsp;</p><p dir=\"ltr\">You will need evidence to draw on in your story. This may come from information or quotes you find from another news story, a report, a book or an interview.</p><p dir=\"ltr\">Be sure to carefully check the provenance of any sources to ensure that the data is reliable and trustworthy. Note down where the information is from and who wrote or said it. This will help with provenance checks and transparency. You should use this information to properly reference your sources when you come to drafting the piece.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Tell a story",
+        "body": "<p>In order to maximise impact of your story, you need a strong narrative which can relate to the desired audience at the right time.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Draft your headline",
+        "body": "<p dir=\"ltr\">After having written your summary and gathered your resources you should have a good idea of what the focus of your piece will be.&nbsp;</p><p dir=\"ltr\">At this point it is very helpful to write a draft headline and standfirst (the two-sentence summary you see under headlines in news stories, usually in italics.) Again. this might change once you have written your piece, but it will help you to keep your main focus on mind as you write.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Drafting your story",
+    "displayTitle": "Drafting your story",
+    "body": "<p dir=\"ltr\">Once you have written your summary and gathered your resources, you should be well prepared to draft your story. If you think you don't have enough resources to write what is detailed in your summary, either return to gathering resources or tweak the summary to fit with what you know. Once you have finished, read through your draft and check it for the things that will make it engaging, accessible and accurate.</p>",
+    "_id": "62b06d16134761027a960ec0",
+    "_parentId": "62b06d15134761027a960e90",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960ec1",
+    "_parentId": "62b06d15134761027a960e90",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f9ef4032a6e4dc799bab35e53563d9be489ec418.jpg",
+      "small": "course/en/assets/f9ef4032a6e4dc799bab35e53563d9be489ec418.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/3V8xo5Gbusk\" target=\"_blank\">Kaleidico</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Drafting your story",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960ec2",
+    "_parentId": "62b06d15134761027a960e91",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Does my draft have a clear beginning, middle and end?",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Think of your storyline as taking the shape of an arc.</p><p dir=\"ltr\">Begin simply by setting the scene - what is the main takeaway of the article?</p><p dir=\"ltr\">Then build up your story. Towards the end of the article, the reader should have all the information they need.</p><p dir=\"ltr\">The ending hammers home the main takeaway of the story again, bringing together the main points covered throughout the article.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/eb3749e20dc0c2536023369a18a343452035d4e5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>"
+        },
+        "strapline": "bge"
+      },
+      {
+        "title": "Does my headline fit onto two lines?",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Five times as many people will read the headline, as will read the rest of the article.</p><p dir=\"ltr\">Ask yourself, 'what will make people want to read more?’ and keep it short and snappy.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/69924a905e186394b74ff499cf442b57bc422f2e.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/FsO4cAZxiVk\" target=\"_blank\">little plant</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "headline"
+      },
+      {
+        "title": "Does my draft include URL links (or footnotes)?",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Make sure you can substantiate your claims by pointing to the data and attributing where you can.&nbsp;</p><p dir=\"ltr\">Linking your publication to other websites and resources will also increase your story's exposure on the web.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/8cc141c3d7dfa1c9250e31596686a5c60c2b08fb.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/s5kTY-Ve1c0\" target=\"_blank\">Remotar Jobs</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "URL"
+      },
+      {
+        "title": "Is there a call to action?",
+        "_ariaLevel": 0,
+        "body": "<p>What do you want your readers do differently after reading the piece?</p><p>Whether your goal is to educate or inspire, motivate or amuse, make sure that you point towards the right resources for your readers to take action.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/dd6c690bd592c6b5f58b3aeb110de913b33db51e.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/_B3YdOxEELc\" target=\"_blank\">Rich Smith</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "url"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Polish, Publish, Promote!",
+    "displayTitle": " Polish, Publish, Promote!",
+    "body": "<p dir=\"ltr\">Once you're happy with your draft, take steps to getting your story out there.&nbsp;</p>",
+    "_id": "62b06d16134761027a960ec3",
+    "_parentId": "62b06d15134761027a960e92",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Polish",
+        "body": "<p dir=\"ltr\">Read your draft through fully once more to make sure it is ready to launch.</p><p dir=\"ltr\">Make sure all the hyperlinks are correct and link to active webpages and be sure you have linked relevant content to the side panel if that is possible on the platform you are using to publish.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Publish",
+        "body": "<p dir=\"ltr\">You should not see publishing your piece as the end of the process, but rather the beginning.</p><p dir=\"ltr\">You want the blog to be read by the audience you had in mind when you wrote it, so make sure it is easy for them to find. Keeping Search Engine Optimisation (SEO) in mind when writing your headline is one of the ways in which you can make sure your piece will be visible to people who are interested in the subject of your blog.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Promote",
+        "body": "<p dir=\"ltr\">Once you have published your piece, be sure to promote it using social media.</p><p dir=\"ltr\">If you have quoted or mentioned specific people or organisations in your piece, link to their profiles on social media channels so they are notified and can easily share it. Asking your contacts or relevant organisations to share it across their social media channels can help you to get the widest possible reach.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960ec4",
+    "_parentId": "62b06d15134761027a960e92",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae9a6de098d4bd2a40ac10d90800c05e4edb154a.jpg",
+      "small": "course/en/assets/ae9a6de098d4bd2a40ac10d90800c05e4edb154a.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/tiNCpHudGrw\" target=\"_blank\">Possessed Photography</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "tabs",
+    "_classes": "tab-color",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Great data journalism examples",
+    "displayTitle": "Great data journalism examples",
+    "body": "<p>Stories help us put data into the world. When put together effectively they can delight, enchant, inspire, educate, motivate and challenge us. Take a look at a number of&nbsp;examples here below.</p>",
+    "_id": "62b06d16134761027a960ec5",
+    "_parentId": "62b06d15134761027a960e93",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on each tab to read an inspiring data story",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "horizontal",
+    "_items": [
+      {
+        "tabTitle": "In flight: 100 years of aviation",
+        "title": "In flight: 100 years of aviation",
+        "body": "<p dir=\"ltr\">To mark 100 years of passenger air travel, the Guardian created an interactive story that used live data from FlightStats. The data allowed them to show every one of the thousands of commercial planes currently in the air.</p><p dir=\"ltr\">This data was one of many datasets that were combined in this interactive story to charts the history of aviation since 1914, and ask what comes next for the industry.</p><p dir=\"ltr\"><a href=\"https://www.theguardian.com/world/ng-interactive/2014/aviation-100-years\">Explore for yourself</a></p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "You Draw It",
+        "title": "What Got Better or Worse During Obama’s Presidency?",
+        "body": "<p dir=\"ltr\">In this piece of work by the New York Times they ask readers to engage directly with the story and challenge their existing knowledge.&nbsp;</p><p dir=\"ltr\">This can be a very effective way to not only entertain but also to directly educate users. This appears to learners who are very kinetic and like to learn by doing.&nbsp;</p><p dir=\"ltr\">Why not find out how much you know about the Obama years?</p><p dir=\"ltr\"><a href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\">Explore this story</a></p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "GISTEMP Climate Spiral",
+        "title": "NASA Climate Visualisation",
+        "body": "<p dir=\"ltr\">The clever people at <a href=\"https://www.linkedin.com/company/nasa/\">NASA - National Aeronautics and Space Administration</a> created a deceptively simple yet highly effective data visualisation showing monthly global temperatures between 1880-2021.&nbsp;&nbsp;&nbsp;</p><p dir=\"ltr\"><a href=\"https://svs.gsfc.nasa.gov/4975\">Explore this story</a></p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Maintaining structure",
+    "displayTitle": "Maintaining structure",
+    "body": "<p dir=\"ltr\">When writing it is&nbsp;important to keep this checklist in mind</p>",
+    "_id": "62b06d16134761027a960ec6",
+    "_parentId": "62b06d15134761027a960e94",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Ask yourself...",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "Who is the audience?",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "What am I trying to communicate?",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "How will I use data to deliver the message?",
+        "body": "",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960ec7",
+    "_parentId": "62b06d15134761027a960e94",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6be2864ebbffe0f7097f97a6a60086d536193250.jpg",
+      "small": "course/en/assets/6be2864ebbffe0f7097f97a6a60086d536193250.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/N2zk9yXjmLA\" target=\"_blank\">Anthony Esau</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "How do we tell effective stories?",
+    "displayTitle": "How do we tell effective stories?",
+    "body": "",
+    "_id": "62b06d16134761027a960ec8",
+    "_parentId": "62b06d15134761027a960e95",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": false,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>It is just as important to communicate the results of your analysis, as it is to conduct a sophisticated data analysis. Mastering both skills can be challenging, however it is essential to draw the real value from data.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Data increases in value the more it can be understood and shared.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>In addition to a visualisation, build a shareable story around it and disseminate that story widely for maximum impact.&nbsp;</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>So when you’ve found a &nbsp;great story, make sure you tell it in a way that’s clear, relatable, and impactful.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>When done effectively, telling data stories in the workplace can be a catalyst for change. Creating compelling stories is an essential skill for those who want to truly have impact.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Stories come in many different shapes and sizes",
+    "displayTitle": "Stories come in many different shapes and sizes",
+    "body": "",
+    "_id": "62b06d16134761027a960ec9",
+    "_parentId": "62b06d15134761027a960e96",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "How and who",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">When you want to communicate a story, you need to decide how you want to share it and who you want your audience to be.</p>",
+        "_graphic": {
+          "src": "course/en/assets/08e7136c2121daccb6fef172278a844b2d256f49.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/6lcT2kRPvnI\" target=\"_blank\">Sara Kurfess</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "who"
+      },
+      {
+        "title": "Shareable and searchable",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">It may be that your data story is part of a wider bit of research. In this case, you might want to write a detailed book about it. However, books are a huge time investment, and will only be read by those who are already interested in your specialist subject. To maximise your impact and reach, your story needs to be easily shareable, searchable and succinct.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/4512176e732f1e1716f24909d19d1ccc32e72f4b.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/yjEt-n0qUl8\" target=\"_blank\">Randy Orourke</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "search"
+      },
+      {
+        "title": "Structure",
+        "_ariaLevel": 0,
+        "body": "<p>Many different businesses and organisations now invest in blogging as an agile form of communicating ideas, projects and news to the wider world. When they are well structured and engaging they can attract widespread readership and help raise the organisation's profile. On the other hand, if they are not well structured, they can put people off and even pose a risk to the organisation's reputation.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/00f6fff76607d8ffcabb9343a4728ce3cd61c0db.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/KuCGlBXjH_o\" target=\"_blank\">La Rel Easter</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "blocks"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Narrating your story",
+    "displayTitle": "Narrating your story",
+    "body": "<p>Data visualisations can be a powerful&nbsp;way of bringing data to life, and helping others&nbsp;deduce meaning from data.</p><p>But to add context to the visualisation,&nbsp;build&nbsp;a shareable story around it and disseminate that&nbsp;story widely for&nbsp;maximum impact, visualisations should be accompanied by a written narrative.&nbsp;</p><p>This module goes through&nbsp;the steps you should take in putting your story into words for the best possible impact:</p><ul><li>Planning and framing your story</li><li>Drafting your story</li><li>Polishing, publishing and promoting your story</li></ul>",
+    "_id": "62b06d16134761027a960eca",
+    "_parentId": "62b06d16134761027a960e97",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "logo",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62b06d16134761027a960ecb",
+    "_parentId": "62b06d16134761027a960e97",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/656bdd978bb754f35de54e17c220d0c7640ed106.jpg",
+      "small": "course/en/assets/656bdd978bb754f35de54e17c220d0c7640ed106.jpg",
+      "attribution": "<a href=\"https://www.bsigroup.com/\" target=\"_blank\">BSI </a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data increases in value the more it can be understood and shared.</p><p>In addition&nbsp;to a&nbsp;visualisation,&nbsp;build&nbsp;a shareable story around it and disseminate that&nbsp;story widely for&nbsp;maximum impact.&nbsp;</p><p>So when you’ve found a great story, make sure you tell it in a way that’s clear, relatable, and impactful.</p><p>A modern data scientist is expected to be a catalyst for change in an organisation. Creating compelling stories is an essential skill for those who want to truly have impact.&nbsp;</p>",
+    "_id": "6347dadd2208e1029dcae80b",
+    "_parentId": "6347dac82208e1029dcae809",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6347dae32208e1029dcae80c",
+    "_parentId": "6347dac82208e1029dcae809",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  }
+]

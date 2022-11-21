@@ -1,0 +1,1656 @@
+[
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6283a296134761027a960c1f",
+    "_parentId": "6283a23f134761027a960c1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "The human eye",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">The human eye, along with the visual cortex, is capable of processing trillions of points of information simultaneously.</p><p dir=\"ltr\">The human eye is very sensitive to detail. It can instantly re-focus on objects at different distances. It can also instantly change the amount of light that enters the eye in order to deal with high and low light levels.&nbsp;&nbsp;</p><p>Technologies such as <a href=\"https://en.wikipedia.org/wiki/Light-field_camera\">Light Field</a> cameras and <a href=\"https://en.wikipedia.org/wiki/High-dynamic-range_imaging\">High Dynamic Range</a>&nbsp;which have the ability to capture a level of detail similar to the eye are beginning to emerge, but have taken thousands of years longer than the eye.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2445a55c3baba4530ca53aef667079d65b9b497.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.designjuices.co.uk/2010/05/digital-photo-manipulation-eyes/\" target=\"_blank\">designjuices.co.uk</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "eye"
+      },
+      {
+        "title": "The visual cortex",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">After light has entered the eye, the information carried with it is passed to the visual cortex for processing. This information is then split by the occipital lobe to be processed in parallel by the dorsal and ventral streams.&nbsp;</p><p dir=\"ltr\">These two pathways have very different jobs and understanding each is the key to effective data visualisation.&nbsp;</p><p dir=\"ltr\"><strong>Dorsal Stream:&nbsp;</strong>The where/how path</p><p dir=\"ltr\"><strong>Ventral Stream</strong>:&nbsp;The what pathway&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/1949700df360ddc39b5615e5a066c8e8a1033bef.jpg",
+          "alt": "",
+          "attribution": "<a href=\" https://en.wikipedia.org/wiki/Two-streams_hypothesis\" target=\"_blank\">Wikipedia</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "cortex"
+      },
+      {
+        "title": "Fast path visulisation",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">The dorsal stream is the pathway in the visual cortex. It is responsible for recognising where things are and how they are going to affect you.</p><p dir=\"ltr\">For example, if someone throws something at you unexpectedly, it's the dorsal stream that will react to help defend you. You act without thinking.</p><p dir=\"ltr\">We can use the same trick in data visualisation to make information pop without needed to rely on the ventral stream to work out what that information is first.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/451c6dc1e6683b6ad4c3a93fcff3b71fcdebaf6d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/abstract-art-blur-bright-373543/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "fast pasth"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making information pop",
+    "displayTitle": "Making information pop",
+    "body": "<p dir=\"ltr\">Using a technique called 'pop out' helps direct the eye to the correct place. The dorsal stream reacts quickly to patterns and significant differences presented visually.</p><p dir=\"ltr\">Pop-out works best when a combination of different visual cues are used in combination, e.g. colour, size and line thickness.</p><p dir=\"ltr\">In the picture here, a combination of colour and thickness guides the eye towards the steepest line. This line represents the first high-speed train from Paris to Lyon. The steepness of the line is the speed.</p>",
+    "_id": "6283a3c8134761027a960c24",
+    "_parentId": "6283a372134761027a960c23",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Using colour",
+        "body": "<p><strong>Careful use of colour is essential and can help not only with 'pop out', but also conveying meaning.</strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Colour has meaning",
+        "body": "<p dir=\"ltr\">As well as making information 'pop out', colour can also convey meaning.</p><p dir=\"ltr\">For example: red, amber and green represent danger, caution, and safety,&nbsp; &nbsp; &nbsp; as shown in traffic lights.&nbsp;</p><p dir=\"ltr\">However, not all colours convey easily recognisable meaning, and too much use of colour can be confusing. In this way, try to keep the number of colours used to a minimum.&nbsp;</p><p dir=\"ltr\">A good demonstration of when to stop using too much colour can be found on <a href=\"https://medium.com/@jakeybob/brexit-maps-d70caab7315e#.9rcl0v6a2\">this blog</a>&nbsp;about Brexit.</p><p>And if you would like more information the book “The designer’s dictionary of colour” by Sean Adams is a very useful resource for anyone who uses colour to convey a meaning.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "One colour",
+        "body": "<p dir=\"ltr\">The human eye is much more sensitive to changes in a single colour rather than having to process multiple colours.</p><p dir=\"ltr\">Grey scales (using different shades of the same colour) are useful to convey change, as the human eye has far more rods (low light receptors for grey scale) than cones (which handle different ranges of colour each).&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Picking the right colour",
+        "body": "<p dir=\"ltr\">If you can't use a grey scale, then it is worth carefully considering the colours to use. Special care should be taken with colours that are too intense.&nbsp;</p><p dir=\"ltr\">Intense colours are those that combine colours which have long wavelengths, stimulating a lot of cones in the eye simultaneously.&nbsp;</p><p dir=\"ltr\">The most intense colour to the eye is yellow, as it combines the red and green receptor cones.&nbsp;</p><p dir=\"ltr\">As yellow can be glaring and hard on the eye, try using more neutral tones such as blue and purple, which are both used prevalently in design (such as in the Lloyds branding).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Colour blindness",
+        "body": "<p dir=\"ltr\">Approximately <a href=\"http://www.colourblindawareness.org/colour-blindness/\">4.5% of the population are colour blind.</a></p><p dir=\"ltr\">Colour blindness affects intense colours like green and red much worse than blues and purples. To make matters worse these already intense colours are seen in many shades of yellow.&nbsp;</p><p dir=\"ltr\">The picture here shows the true colour spectrum on the left and the three different forms on colour blindness on the right. If any of the three on the right match the one on the far left then you suffer from colour blindness.&nbsp;</p><p dir=\"ltr\">When visualising data, try to use grey scales wherever possible. Only use colour where it already has a meaning.&nbsp;</p><p dir=\"ltr\">You may find something interesting in the data when you are cleaning, analysing and interrogating your dataset. If this finding is significant, the next stage will be to communicate this to others. Data visualisations help communicate insight found in data in an easy and quick way.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Understadning visual misrepresentation ",
+    "displayTitle": "Understadning visual misrepresentation ",
+    "body": "<p>Visual representations of data vastly decrease the amount of time it takes to communicate a message. However, not all data visualisations are equal. Some are designed to emphasise a point which may unintentionally (or intentionally) mislead the viewer. In this section, we explore a number of ways to spot misrepresentation when looking at data visualisations.</p>",
+    "_id": "6283a5a8134761027a960c28",
+    "_parentId": "6283a585134761027a960c27",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Baseline failure",
+    "displayTitle": "Baseline failure",
+    "body": "<p dir=\"ltr\">Not starting at zero causes what is known as 'baseline failure'.</p><p dir=\"ltr\">When looking at a bar chart, the human brain looks instantly at the size of the bar, not the value it represents. Therefore, to make a value difference appear larger than it is, the scale won't start at zero.&nbsp;</p><p dir=\"ltr\">This is a very common misrepresentation used to emphasise a difference that would appear small otherwise.&nbsp;</p>",
+    "_id": "6283a5d2134761027a960c2a",
+    "_parentId": "6283a5cc134761027a960c29",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Multiple scales",
+    "displayTitle": "Multiple scales",
+    "body": "<p dir=\"ltr\">Another common method used to emphasise a difference or correlation is to use multiple scales.&nbsp;</p><p dir=\"ltr\">Typically, this involves having different scales on each side of the chart that each relate to different plots of data.&nbsp;</p><p dir=\"ltr\">The example shown here from the Colorado Department of Transport uses two scales to try and emphasise how different fatal accidents are in 2016 compared to previous years.&nbsp;</p><p dir=\"ltr\">Things to note:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">The scale on the right does not start at zero (baseline failure)</p></li><li dir=\"ltr\"><p dir=\"ltr\">The intervals on the two scales are different</p></li><li dir=\"ltr\"><p dir=\"ltr\">The coloured bars for other years are not always for the same years (i.e. green is not always 2010)</p></li></ul>",
+    "_id": "6283a607134761027a960c2c",
+    "_parentId": "6283a5f2134761027a960c2b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Adding depth and area",
+    "displayTitle": "Adding depth and area",
+    "body": "<p>The first thing that the brain notices when looking at a visualisation is the size of different parts.&nbsp;</p>",
+    "_id": "6283a681134761027a960c2e",
+    "_parentId": "6283a672134761027a960c2d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Adding depth",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Adding 3D effects increases the area of a graph. To the human brain the perceived size is now larger with the additional volume.&nbsp;</p><p dir=\"ltr\">Providing that the volume is equal in all cases then this is fine (e.g. the volume of an area with value 4 is exactly twice the volume of an area with value 2).&nbsp;</p><p dir=\"ltr\">However, if the volumes are not proportional, or as is the case here potentially infinite, then it can be difficult to grasp real values.&nbsp;&nbsp; BSI does not use 3D graphs.</p>",
+        "_graphic": {
+          "src": "course/en/assets/becc93fb17de6ed165b9891abe6fb851775ac273.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.edwardtufte.com/tufte/\" target=\"_blank\">Edward Tufte</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "depth"
+      },
+      {
+        "title": "Removing depth",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Removing the 3D infinite depth shows a different view of the data.&nbsp;</p><p dir=\"ltr\">With the depth removed, previously large changes are no longer present in the data.&nbsp;</p><p dir=\"ltr\">Interestingly, this data also suffers from the fact that the figures have not been adjusted for inflation. Adjusting the figures shows that state expenditure had not changed in real terms for the previous seven years.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/758439c9a2b0edc0fbb19e6ed6c66ad1ccd8497d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.edwardtufte.com/tufte/\" target=\"_blank\">Edward Tufte</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "depth"
+      },
+      {
+        "title": "Radius and area",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Using raw values as the radius of a circle is another big mistake.&nbsp;</p><p dir=\"ltr\">The easy way to spot this mistake is to attempt to fit a smaller circle inside a bigger circle. For example, a circle representing the value '1' should fit in another circle representing the value '3' exactly three times.&nbsp;</p><p dir=\"ltr\">As can be seen in the example here, this is not the case. Smaller differences seem bigger, due to the incorrect scaling of the circles. &nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/7c422cfc6ad4640bd456aac607a7d776296f5302.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.slideshare.net/ICScreative/fast-cheapgreat-icscreative\" target=\"_blank\">Slideshare</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "radius"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Percentages",
+    "displayTitle": "Percentages",
+    "body": "<p dir=\"ltr\">As well as issues with area, pie charts can also be misleading when plotting percentages.&nbsp;</p><p dir=\"ltr\">A close look at this pie chart shows that the values only add up to 62%. So what happened to the other 38% of safety concerns?</p><p dir=\"ltr\">It is also worth observing that the size of the 19% quadrant is also far larger than a 25% quadrant should be.</p>",
+    "_id": "6283a74a134761027a960c33",
+    "_parentId": "6283a745134761027a960c32",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Essential charts and graphs",
+    "displayTitle": "Essential charts and graphs",
+    "body": "<p>Knowing which chart to use when communicating your story is essential to creating the right impact.&nbsp;</p>",
+    "_id": "6283a890134761027a960c37",
+    "_parentId": "6283a433134761027a960c25",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Bar charts",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">The human brain is very good at quickly judging the size of simple shapes, such as rectangles. Thus the bar chart can very effectively communicate differences.&nbsp;</p><p dir=\"ltr\">Simple bar charts can communicate powerful messages quickly.&nbsp;Enhancing bar charts and pie charts with graphics and well placed text can also aid clear understanding. You do not&nbsp;even always need scales or lines.</p><p dir=\"ltr\">The picture on the left compares the revenue of one product to the revenue of an entire company, where the product has made more money. If you were creating a visualisation which told this story, what might you add to make this finding stand out even more?</p>",
+        "_graphic": {
+          "src": "course/en/assets/233929758ec2956bcc271fff2d6600f63e0c82f9.png",
+          "alt": "",
+          "attribution": "<a href=\"rapidtables.com\" target=\"_blank\">Bar Chart made with rapid tables</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "bar"
+      },
+      {
+        "title": "Line and area charts",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Line and area charts should only be used where there is a time series to be displayed. In most countries and cultures,&nbsp;people read left to right. Therefore, line charts must be constructed to be read from left to right.&nbsp;</p><p dir=\"ltr\">A line chart, as shown here, is best for comparing multiple sets of data over the same (or equivalent) timeframe.</p><p dir=\"ltr\">An area chart can be used to emphasise the totals. When using area charts, it is best to use a stacked area to clearly show the total of all datasets over the same (or equivalent) period of time.</p>",
+        "_graphic": {
+          "src": "course/en/assets/17af301273f7bc194b613f19a3834993b6baba83.png",
+          "alt": "",
+          "attribution": "<a href=\"rapidcharts.com\" target=\"_blank\">rapidcharts.com</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "bar"
+      },
+      {
+        "title": "Pie Charts",
+        "_ariaLevel": 0,
+        "body": "<p>Pie charts have a fairly narrow use case.</p><p>Most importantly, a&nbsp;pie chart must be&nbsp;contributing&nbsp;to the whole so that each 'slice' in the pie chart must represents a proportion of the whole chart. The chart should not&nbsp;be used to compare&nbsp;groups of sets against one another.</p><p><br />In order to create a good pie chart, you must&nbsp;avoid having too&nbsp;many slices contained in the chart. As a rule of thumb,&nbsp;if there are over 5 slices in the&nbsp;chart then you may need to look towards&nbsp;another visualization format.</p><p>Never create a 3D pie chart because it will, without fail, misrepresent the data by blowing the slices out of proportion.&nbsp;<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/dad51f866fa6878cc8281a1b010019ebcbec4268.png",
+          "alt": "",
+          "attribution": "<a href=\"rapidtables.com\" target=\"_blank\">rapidtables.com</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "area"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Which is the fastest feature of the eye?",
+    "displayTitle": "Which is the fastest feature of the eye?",
+    "body": "",
+    "_id": "6283ab04134761027a960c3d",
+    "_parentId": "6283aaef134761027a960c3c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "'What' things are",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "'Where' things are",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "'Why' things are there",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">The dorsal stream recognises where things are very quickly. It helps us avoid obstacles when walking and running.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">The dorsal stream recognises where things are very quickly. It helps us avoid obstacles when walking and running.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making information pop",
+    "displayTitle": "Making information pop",
+    "body": "<p>Which visual features can you use to make information 'pop'</p>",
+    "_id": "6283ab7e134761027a960c3f",
+    "_parentId": "6283ab75134761027a960c3e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Colour",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Texture",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": true,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Position",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Size",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">You can use colour, texture, position and size to make information pop. It is best, however, &nbsp;to use a combination of features. For example a thick red line, not just a red line.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">You can use colour, texture, position and size to make information pop. It is best, however, &nbsp;to use a combination of features. For example a thick red line, not just a red line.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Using colour",
+    "displayTitle": "Using colour",
+    "body": "<p>When visualising data, which colour should be used to maximise the visibility of detail?</p>",
+    "_id": "6283abfc134761027a960c41",
+    "_parentId": "6283abdb134761027a960c40",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Shades of yellow",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Shades of blue",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Shades of grey",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">The eye is far more sensitive to low light, thus many more shades of grey can be seen that any other colour.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">The eye is far more sensitive to low light, thus many more shades of grey can be seen that any other colour.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What chart should be used for time series data?",
+    "displayTitle": "What chart should be used for time series data?",
+    "body": "<p>Which type of chart is most preferable for visualising&nbsp;time based data?</p>",
+    "_id": "6283ac5a134761027a960c43",
+    "_parentId": "6283ac45134761027a960c42",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Bar chart",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Line chart",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">A line chart shows clearly the changes between data points over time. You can also overly multiple lines to compare multiple series of data over the same or equivalent times.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">A line chart shows clearly the changes between data points over time. You can also overly multiple lines to compare multiple series of data over the same or equivalent times.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Identify the misrepresentation",
+    "displayTitle": "Identify the misrepresentation",
+    "body": "<p>In what way does the visualisation here attempt to mislead the viewer?</p>",
+    "_id": "6283ad20134761027a960c47",
+    "_parentId": "6283ad08134761027a960c46",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Baseline failure",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Radius/area failure",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Baseline AND radius/area failure",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p dir=\"ltr\">This visualisation's scale starts at 6.3, so it suffers from baseline failure. Furthermore, the areas of the triangles are not proportional to each other and are actually out by a distortion factor of 5!</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">This visualisation's scale starts at 6.3, so it suffers from baseline failure. Furthermore, the areas of the triangles are not proportional to each other and are actually out by a distortion factor of 5!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284be56134761027a960c9f",
+    "_parentId": "6283a5cc134761027a960c29",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "small": "course/en/assets/672bf2eb96b5642e5d515626558e12effcde751b.jpg",
+      "attribution": "<a href=\"http://theodi.org\" target=\"_blank\">Max Van Kleek</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284be72134761027a960ca2",
+    "_parentId": "6283a5f2134761027a960c2b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/99da2f20fc6d50aa064a09aeb8c2fffd51651480.png",
+      "small": "course/en/assets/99da2f20fc6d50aa064a09aeb8c2fffd51651480.png",
+      "attribution": "<a href=\"http://www.medicaldaily.com/did-marijuana-legalization-lower-car-accident-deaths-colorado-state-sees-historic-lows-296886\" target=\"_blank\">Historical Fatal Car Crashes, Colorado Department of Transportation, Colorado Department of Transportation</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284beb7134761027a960ca5",
+    "_parentId": "6283a745134761027a960c32",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d3f89a6758812def9582f6977de3872488742d4c.png",
+      "small": "course/en/assets/d3f89a6758812def9582f6977de3872488742d4c.png",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284c16a134761027a960ca8",
+    "_parentId": "6283aaef134761027a960c3c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1949700df360ddc39b5615e5a066c8e8a1033bef.jpg",
+      "small": "course/en/assets/1949700df360ddc39b5615e5a066c8e8a1033bef.jpg",
+      "attribution": "<a href=\" https://en.wikipedia.org/wiki/Two-streams_hypothesis\" target=\"_blank\">Wikipedia</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "chair",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284c189134761027a960cab",
+    "_parentId": "6283ab75134761027a960c3e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1bcf293d39a9d1e69bd6d9f3f44abcda9f69dae4.jpg",
+      "small": "course/en/assets/1bcf293d39a9d1e69bd6d9f3f44abcda9f69dae4.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/qhfxY3X6JV0\" target=\"_blank\">Noah Naf</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284c21c134761027a960caf",
+    "_parentId": "6283abdb134761027a960c40",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0e64401da469087594f956c28eb022e43aa33486.jpg",
+      "small": "course/en/assets/0e64401da469087594f956c28eb022e43aa33486.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/l37N7a1lL6w\" target=\"_blank\">Rupert Britton</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284c2a2134761027a960cb3",
+    "_parentId": "6283ad08134761027a960c46",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "small": "course/en/assets/df4f58cc130dde9a671827313192401b8cb263ca.jpg",
+      "attribution": "<a href=\"http://viz.wtf/post/143590868627/unhealthy-data\" target=\"_blank\">WTF Visualizations</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "chair",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284c350134761027a960cb6",
+    "_parentId": "6283a372134761027a960c23",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9aa6b28f550516c471634869b1ab5527b51cbcf.jpg",
+      "small": "course/en/assets/e9aa6b28f550516c471634869b1ab5527b51cbcf.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/KmKZV8pso-s\" target=\"_blank\">Ricardo Comez</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284cba4134761027a960cc3",
+    "_parentId": "6283ac45134761027a960c42",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/69b1513ad3ced09c1fbc24ef1bcba4f487778ff0.jpg",
+      "small": "course/en/assets/69b1513ad3ced09c1fbc24ef1bcba4f487778ff0.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/br9D5K3UTRQ\" target=\"_blank\">Nick Frewings</a> <span class='assetLicence'>[CC-BY]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "section-banner",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Visual Misrepresentation",
+    "displayTitle": "Visual Misrepresentation",
+    "body": "",
+    "_id": "6284eb33134761027a960d0f",
+    "_parentId": "6284eb16134761027a960d0d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "section-banner",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284eb4d134761027a960d10",
+    "_parentId": "6284eb16134761027a960d0d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3fdb9443f41a5d1ad348fd1f9efc0102ea19dc33.png",
+      "small": "course/en/assets/3fdb9443f41a5d1ad348fd1f9efc0102ea19dc33.png",
+      "attribution": "<a href=\"ODI\" target=\"_blank\">ODI</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284ebaa134761027a960d13",
+    "_parentId": "6283a585134761027a960c27",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a1c0ca6a9611354554cda291ba59d322a6ce4daf.jpg",
+      "small": "course/en/assets/a1c0ca6a9611354554cda291ba59d322a6ce4daf.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/vLmo8kAVVt4\" target=\"_blank\">Michael Dziedzic</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "color-two inverted ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Visualisation best practice",
+    "displayTitle": "Visualisation best practice",
+    "body": "<p>Visualising data&nbsp;enables us to&nbsp;grasp difficult concepts or identify new patterns quickly.</p><p>In this module, we introduce the key tricks that help the eye and brain process&nbsp;and understand data much faster.&nbsp;</p><p>We will cover:</p><ul><li>Visualisation and the visual cortex</li><li>Making information pop</li><li>Using color</li></ul>",
+    "_id": "6284f878134761027a960d1d",
+    "_parentId": "6284f833134761027a960d18",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6284f8a2134761027a960d1e",
+    "_parentId": "6284f833134761027a960d18",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/656bdd978bb754f35de54e17c220d0c7640ed106.jpg",
+      "small": "course/en/assets/656bdd978bb754f35de54e17c220d0c7640ed106.jpg",
+      "attribution": "<a href=\"https://www.bsigroup.com/\" target=\"_blank\">BSI </a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What chart shows the distribution of data?",
+    "displayTitle": "What chart shows the distribution of data?",
+    "body": "<p>Which of the following charts best shows the distribution of a dataset?</p>",
+    "_id": "62a07760134761027a960e3e",
+    "_parentId": "62a07740134761027a960e3c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'.",
+    "_items": [
+      {
+        "text": "Pie Chart",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Line Chart",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Histogram",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p><p>&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "chartjs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a0791f134761027a960e3f",
+    "_parentId": "62a07740134761027a960e3c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_chartType": "bar",
+    "_height": 522,
+    "data": {
+      "labels": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "datasets": [
+        {
+          "label": "Number of Arrivals",
+          "data": [
+            19,
+            28,
+            20,
+            16
+          ],
+          "backgroundColor": "RGB(218, 0, 16)"
+        }
+      ]
+    },
+    "_options": {
+      "scales": {
+        "xAxes": [
+          {
+            "display": false,
+            "barPercentage": 1.3,
+            "ticks": {
+              "max": 3
+            }
+          },
+          {
+            "display": true,
+            "ticks": {
+              "autoSkip": false,
+              "max": 4
+            }
+          }
+        ],
+        "yAxes": [
+          {
+            "ticks": {
+              "beginAtZero": true
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Communicating impact from data is a key skill of any modern data worker. This module has introduced some of the essential techniques that can help effectively visualise data.</p><p>Picking the right visualisation is an important&nbsp;&nbsp;part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues plays a&nbsp;crucial&nbsp;role in making the story “pop out” at the audience. A&nbsp;modern data scientist who may be presenting their stories to high level manager with limited time will need these techniques in order to tell stories effectively.</p><p>However, visualisations should always be constructed to represent a true picture of the data. In communicating your message, make sure to avoid misleading your viewers.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "6347e1b42208e1029dcae817",
+    "_parentId": "6347e18f2208e1029dcae816",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6347e1bc2208e1029dcae818",
+    "_parentId": "6347e18f2208e1029dcae816",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  }
+]

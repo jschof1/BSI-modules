@@ -1,0 +1,1718 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic: Data Building Blocks",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae1134761027a95f6b7",
+    "_layout": "left",
+    "_parentId": "61dc2ae0134761027a95f6a8",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Master data",
+    "displayTitle": "Master data",
+    "body": "<p><strong>Master data is usually identified by the fact that the data element is ….</strong></p>",
+    "_id": "61dc2ae1134761027a95f6bb",
+    "_layout": "right",
+    "_parentId": "61dc2ae1134761027a95f6ad",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Data which represents the completion of a business action or course of actions",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Core data within a business that describes the fundamental data groups around which a business is conducted",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Data that records the result of ascertaining or determining the magnitude or quantity of something",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Master data is core data within a business that describes the fundamental data groups around which a business is conducted</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Master data is core data within a business that describes the fundamental data groups around which a business is conducted</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data, information and knowledge",
+    "displayTitle": "What is data?",
+    "body": "<p>Without data we can’t build information, and without information there is no new knowledge.</p>",
+    "_id": "61dc2ae1134761027a95f6bc",
+    "_layout": "full",
+    "_parentId": "61dc2ae1134761027a95f6ab",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "strapline": "Data",
+        "_graphic": {
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
+          "alt": "",
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg"
+        },
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+        "title": "Data"
+      },
+      {
+        "strapline": "Information",
+        "_graphic": {
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366\" target=\"_blank\">Sachezi </a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
+          "alt": "",
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg"
+        },
+        "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>Collecting and presenting data helps to form information.&nbsp;</p>",
+        "title": "Information"
+      },
+      {
+        "strapline": "Knowledge",
+        "_graphic": {
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>",
+          "alt": "",
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg"
+        },
+        "body": "<p>Knowledge is what is derived from information&nbsp;and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
+        "title": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Q: What is data?",
+    "displayTitle": "What is data?",
+    "body": "<p><strong>Data is...</strong></p>",
+    "_id": "61dc2ae2134761027a95f6c1",
+    "_layout": "right",
+    "_parentId": "61dc2ae0134761027a95f6a8",
+    "_type": "component",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_buttons": {
+      "remainingAttemptText": "",
+      "remainingAttemptsText": "",
+      "_showFeedback": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_hideCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_showCorrectAnswer": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_reset": {
+        "ariaLabel": "",
+        "buttonText": ""
+      },
+      "_submit": {
+        "ariaLabel": "",
+        "buttonText": ""
+      }
+    },
+    "_feedback": {
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": ""
+      },
+      "_incorrect": {
+        "notFinal": "",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+      },
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+    },
+    "_selectable": 1,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_canShowMarking": true,
+    "_canShowFeedback": true,
+    "_canShowModelAnswer": true,
+    "_attempts": 1,
+    "_items": [
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "a pie chart in the daily paper"
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": false,
+        "text": "information posted on the Web."
+      },
+      {
+        "feedback": "",
+        "_shouldBeSelected": true,
+        "text": "the raw material of information and knowledge."
+      }
+    ],
+    "instruction": "Choose your answer, then click 'Submit'"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic: Team around a table birds eye",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae2134761027a95f6c2",
+    "_layout": "left",
+    "_parentId": "61dc2ae1134761027a95f6b1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5fdf7504dd75e1ccd6a76aeec34ecfdaa947c7fa.jpg",
+      "small": "course/en/assets/5fdf7504dd75e1ccd6a76aeec34ecfdaa947c7fa.jpg",
+      "attribution": "<a href=\"gettyimages.com\" target=\"_blank\">BSI / Getty Images</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " Graphic: Robot ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae2134761027a95f6c4",
+    "_layout": "left",
+    "_parentId": "61dc2ae1134761027a95f6ad",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6efc45c33ae0aa0e7deb368aa50c08bdebbb7ee4.jpg",
+      "small": "course/en/assets/6efc45c33ae0aa0e7deb368aa50c08bdebbb7ee4.jpg",
+      "attribution": "<a href=\"gettyimages.com\" target=\"_blank\">BSI / Getty Images</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " What are the technical requirements of quality data?",
+    "displayTitle": " What are the technical requirements of quality data?",
+    "body": "",
+    "_id": "61dc2ae2134761027a95f6c7",
+    "_layout": "right",
+    "_parentId": "61dc2ae1134761027a95f6b1",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The data is available online in a CSV file",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The data is well structured and can easily be filtered and searched",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Technical documentation is provided describing the structure of the data etc",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><ul><li dir=\"ltr\"><p dir=\"ltr\">&nbsp;The data is well structured and can easily be filtered and searched</p></li><li dir=\"ltr\"><p dir=\"ltr\">Technical documentation is provided describing the structure of the data and defining abbreviations etc (if such technical documentation is required).</p></li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><ul><li dir=\"ltr\"><p dir=\"ltr\">The data is well structured and can easily be filtered and searched</p></li><li dir=\"ltr\"><p dir=\"ltr\">Technical documentation is provided describing the structure of the data and defining abbreviations etc (if such technical documentation is required).</p></li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "clipboard",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "footer ",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae2134761027a95f6cb",
+    "_layout": "right",
+    "_parentId": "61dc2ae0134761027a95f6a9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Why do we need data?",
+    "displayTitle": "Why do we need data?",
+    "body": "<p dir=\"ltr\"><strong>Organisations are increasingly using data to...</strong></p>",
+    "_id": "61dc2ae2134761027a95f6ce",
+    "_layout": "left",
+    "_parentId": "61dc2ae1134761027a95f6ac",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Understand how their business works and how they perform",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Unlock social, environmental and economic value",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      },
+      {
+        "text": "Hold individuals to account",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>Whether in operations, finance or products and services, organisations increasingly use data to understand how their business works and how they perform.</p><p dir=\"ltr\">&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Whether in operations, finance or products and services, organisations increasingly use data to understand how their business works and how they perform.</p><p dir=\"ltr\">&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What is data?",
+    "displayTitle": "What is data?",
+    "body": "<p>Data is a valuable resource to organizations of all sizes.</p><p>Increasing numbers of organizations&nbsp;are using data to grow their businesses, improve their operations and enhance&nbsp;services for their customers.</p><p><strong>In this module we’ll explore the following:</strong></p><ul dir=\"ltr\"><li>What is data</li><li>Why do we need it and how do we&nbsp; make it usable</li><li>BSI data categorisation</li><li>BSI’s security labels</li></ul>",
+    "_id": "61dc2ae2134761027a95f6cf",
+    "_layout": "left",
+    "_parentId": "61dc2ae0134761027a95f6aa",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic: Lab",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae2134761027a95f6d3",
+    "_layout": "right",
+    "_parentId": "61dc2ae1134761027a95f6ac",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/15ac28094cbe2e0d261e1b737dc654e9ac105523.jpg",
+      "small": "course/en/assets/15ac28094cbe2e0d261e1b737dc654e9ac105523.jpg",
+      "attribution": "<a href=\"gettyimages.com\" target=\"_blank\">BSI / Getty Images</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": " BSI logo main",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae3134761027a95f6d9",
+    "_layout": "right",
+    "_parentId": "61dc2ae0134761027a95f6aa",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/656bdd978bb754f35de54e17c220d0c7640ed106.jpg",
+      "small": "course/en/assets/656bdd978bb754f35de54e17c220d0c7640ed106.jpg",
+      "attribution": "<a href=\"https://www.bsigroup.com/\" target=\"_blank\">BSI </a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Without data we can’t build information, and without information there is no new knowledge.</p><p>Data is a valuable resource to organisations of all sizes. &nbsp;Increasing numbers of organisations&nbsp;are using data to grow their businesses, improve their operations and enhance&nbsp;services for their customers.</p>",
+    "_id": "61dc2ae3134761027a95f6e8",
+    "_layout": "left",
+    "_parentId": "61dc2ae0134761027a95f6a9",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Categorzation",
+    "displayTitle": "Categorzation",
+    "body": "<p><strong>A data element that describes a transaction process e.g. Order Data is ……</strong></p>",
+    "_id": "61dc2ae3134761027a95f6f0",
+    "_layout": "left",
+    "_parentId": "61dc2ae1134761027a95f6b0",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Categorized as Metadata",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Categorized as external Reference data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Categorized as Transactional data",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 1
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That’s right!</strong></p><p>A data element that describes a transaction process is categorized as Transactional data</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">A data element that describes a transaction process is categorized as Transactional data</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Graphic: Plane Engineer",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dc2ae3134761027a95f6f1",
+    "_layout": "right",
+    "_parentId": "61dc2ae1134761027a95f6b0",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2137b3892d38b88961963c198c1ad0dc038dbc10.jpg",
+      "small": "course/en/assets/2137b3892d38b88961963c198c1ad0dc038dbc10.jpg",
+      "attribution": "<a href=\"BSI\" target=\"_blank\">BSI / Getty</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Access Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61dee93b134761027a95f71b",
+    "_parentId": "61dee934134761027a95f71a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0027d3e5fdfe0ffcd9539e0dffdcf69c902558c9.jpg",
+      "small": "course/en/assets/0027d3e5fdfe0ffcd9539e0dffdcf69c902558c9.jpg",
+      "attribution": "<a href=\"gettyimges.com\" target=\"_blank\">BSI / Getty Images</a> <span class='assetLicence'>[All rights reserved]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "What data should be labelled as Internal?",
+    "displayTitle": "What data should be labelled as Internal?",
+    "body": "",
+    "_id": "61dee94e134761027a95f71c",
+    "_parentId": "61dee934134761027a95f71a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Information that can be made freely available to the public. ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Information that has been created for internal use and that could cause some adverse impact to BSI if made public.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Information that should not be made public, could be used in routine business matters and processes and which if breached, could result in a fine. ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p dir=\"ltr\"><strong>That’s right!</strong></p><p dir=\"ltr\">Internal information that has been created for internal use and could cause some adverse impact to BSI if made public.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Are you sure?</strong></p><p dir=\"ltr\">Internal information that has been created for internal use and could cause some adverse impact to BSI if made public.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Making data usable",
+    "displayTitle": "Making data usable",
+    "body": "<p dir=\"ltr\">Data becomes usable when a human can understand it and a machine can manipulate it.</p><p dir=\"ltr\">Data users need the permission of the data publisher, usually granted by licence or sharing agreement. But the licence alone is not enough to guarantee the usability of data.</p><p dir=\"ltr\">There are many other aspects to consider that make data usable including:</p>",
+    "_id": "624c3bd7134761027a960734",
+    "_parentId": "624c3b81134761027a96072d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Legal requirements",
+        "body": "<p>you must abide by data protection legislation and preserve the rights of individuals, providers and third parties.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Practical requirments",
+        "body": "<p>It is important that data can be found and relied upon by users.&nbsp; This means that data publishers should provide links to the data; this could be in repositories or linked from SharePoint, update the data regularly if it changes and commit to continue to make the data available.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Technical requirements",
+        "body": "<p>From a technical perspective data should be published in a widely used format, structured simply and able to be machine read and supported by documentation to describe the structure, types and codes within the data, for example, abbreviations.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Social requirements",
+        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets are supported by active support channels, discussion groups and forums and published how-to guides on working with the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "624d6b39134761027a960751",
+    "_parentId": "624c3b81134761027a96072d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bbab87cbc66e5f301ed99ab29c3881c45784daed.jpg",
+      "small": "course/en/assets/bbab87cbc66e5f301ed99ab29c3881c45784daed.jpg",
+      "attribution": "<a href=\"https://unsplash.com/photos/kwzWjTnDPLk \" target=\"_blank\">Lagos Techie</a> <span class='assetLicence'>[CC0]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "tabs",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "SC",
+    "displayTitle": "",
+    "body": "",
+    "_id": "628275b2134761027a960be9",
+    "_parentId": "628275b2134761027a960be8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_tabLayout": "vertical",
+    "_items": [
+      {
+        "tabTitle": "Level 0 Public",
+        "title": "Level 0 Public",
+        "body": "<p>Data that is already in the public domain and if disclosed, would have no adverse impact to BSI.</p><p>There is no requirement to label information classified as Level 0 Public. Unlabelled information may be presumed to be Level 0.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Level 1 Internal",
+        "title": "Level 1 Internal",
+        "body": "<p>Data if made&nbsp;public&nbsp;could cause some adverse impact to BSI.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Level 2 Restricted",
+        "title": "Level 2 Restricted",
+        "body": "<p>Applied to commercially sensitive data and any other data which if breached, may trigger a notification and lead to fines or sanctions.</p><p>&nbsp;</p><p dir=\"ltr\">Requires authorisation from a Line Manager or the Information Asset Owner and may require additional training before access is granted</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Level 3 Restricted",
+        "title": "Level 3 Restricted",
+        "body": "<p>Applied to highest risk data which requires stringent protection and attention.</p><p>This data may require additional background checks, such as a DBS (Disclosure Barring Service)&nbsp; check depending on the context as well as&nbsp;authorisation from a Line Manager or the Information Asset Owner.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "sc",
+    "displayTitle": "",
+    "body": "<p dir=\"ltr\">One way to think about data security….&nbsp;</p><p dir=\"ltr\" style=\"text-align:center\"><em>consider who needs to have access to it and what are the implications if it was disclosed to the wrong person. </em></p><p dir=\"ltr\">Doing so can help you to classify and agree on sharing arrangements for your data assets.</p><p dir=\"ltr\">BSI has established an Information Classification Labelling and Handling Policy, designed so that</p><ul><li dir=\"ltr\"><p dir=\"ltr\">assets can be identified.</p></li><li dir=\"ltr\"><p dir=\"ltr\">security requirements determined and applied.&nbsp;</p></li></ul><p dir=\"ltr\">This procedure contains a list of classifications with definitions to allow people to consistently classify information.</p>",
+    "_id": "628275b2134761027a960bea",
+    "_parentId": "628275b2134761027a960be8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "list",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Key points: security classification",
+    "displayTitle": "Key points: security classification",
+    "body": "",
+    "_id": "628374d8134761027a960bf8",
+    "_parentId": "62837392134761027a960bf4",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_animateList": true,
+    "_percentInviewVertical": 70,
+    "_orderedList": true,
+    "_columns": 0,
+    "_items": [
+      {
+        "title": "",
+        "body": "<p>There is no requirement to label information in the public domain</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Unlabelled information may be presumed to be Level 0</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p dir=\"ltr\">Handling above Level 1 requires authorisation from a Line Manager or the Information Asset Owner and may require additional training before access is granted</p>",
+        "_imageSrc": "",
+        "alt": ""
+      },
+      {
+        "title": "",
+        "body": "<p>Handling or creating above Level 2 may require additional background checks, such as a Criminal Records Bureau check depending on the context.</p>",
+        "_imageSrc": "",
+        "alt": ""
+      }
+    ]
+  },
+  {
+    "_component": "expose",
+    "_classes": "expose-box",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "FAIR Principle",
+    "displayTitle": "FAIR Principle",
+    "body": "<p dir=\"ltr\">To encourage and support the usability of digital assets, the&nbsp; FAIR data principles can be our guide.</p>",
+    "_id": "6283767b134761027a960bfb",
+    "_parentId": "6283767b134761027a960bfa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click on the boxes below to find out more",
+    "_columns": 2,
+    "_animationType": "shrink",
+    "_items": [
+      {
+        "front": "Findable",
+        "back": {
+          "title": "Findable",
+          "body": "<p>well described with clear metadata and referenced in many portals, publications and websites.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Accessible",
+        "back": {
+          "title": "Accessible",
+          "body": "<p>easily accessed, downloaded or transferred.&nbsp;</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Interoperable",
+        "back": {
+          "title": "Interoperable",
+          "body": "<p>combined and remixed with other data, using shared terminology and standards.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Reusable",
+        "back": {
+          "title": "Reusable",
+          "body": "<p>made available in a way that permits wide reuse (based upon access rights) and updated on a regular basis.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Finding inconsistencies",
+    "displayTitle": "Finding inconsistencies",
+    "body": "<p dir=\"ltr\"><strong>Inconsistencies in the ways data is represented are one of the main hurdles people face when reusing data.&nbsp;</strong></p><p dir=\"ltr\"><strong>Take the following <a href=\"https://docs.google.com/spreadsheets/d/1JGkUXl_U5FUY7p5Qz9V9BJz_XNdmK_u9/edit?usp=sharing&amp;ouid=112822325233246372607&amp;rtpof=true&amp;sd=true\">two datasets</a> illustrating how training courses are recorded in SFDC and LMS and compare them:&nbsp;</strong></p>",
+    "_id": "62837726134761027a960bff",
+    "_parentId": "62837712134761027a960bfd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select the options below",
+    "_items": [
+      {
+        "text": "Differences in the way the learning products are created in SFDC and LMS",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Differences in naming conventions and structures making it difficult to compare them",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": true,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Differences in the ‘delivery type’ values",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": true,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Differences in date formats",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": true,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Differences in the labelling of the columns ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": true,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Differences in units on numbers",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": true,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Abbreviations vs= no abbreviations",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 7,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That's right!</strong></p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Evaluating the usability of data",
+    "displayTitle": "Evaluating the usability of data",
+    "body": "<p dir=\"ltr\">When creating data sets, it is important that you either conform to common or company-wide data representations and one way to increase the usability of data is to conform to widely used standards.&nbsp;</p><p dir=\"ltr\">A standard is a documented and reusable agreement that details how something should be done.</p><p dir=\"ltr\">As a BSI employee, you will not be surprised to learn there are a number of standards that already exist for everything from date formats (<a href=\"https://www.iso.org/iso-8601-date-and-time-format.html\">ISO 8601</a>) to how to be compliant with General Data Protection Regulation (GDPR) (<a href=\"https://en.wikipedia.org/wiki/ISO/IEC_27701\">ISO 27701</a>).&nbsp;</p>",
+    "_id": "62837805134761027a960c00",
+    "_parentId": "624d6199134761027a960746",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "mobile-hide",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62837817134761027a960c01",
+    "_parentId": "624d6199134761027a960746",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a8564ca728df4ad588372612adcb8dfb0c2d96ab.jpeg",
+      "small": "course/en/assets/a8564ca728df4ad588372612adcb8dfb0c2d96ab.jpeg",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "BSI Data Categorisation",
+    "displayTitle": "BSI Data Categorisation",
+    "body": "<p>There are different Data Categorisations that you may come across. Below we will explore these categorisations.</p>",
+    "_id": "6283796c134761027a960c06",
+    "_layout": "full",
+    "_parentId": "6283796c134761027a960c05",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Master Data",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Master data is the core data within a business that describes the fundamental entities around which a business is conducted (e.g. Customers, Products, People etc.)</p>",
+        "_graphic": {
+          "src": "course/en/assets/fff79522d2c3295ad050530d5771ea493d2a4fe1.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/gray-and-gold-steel-gears-159275/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Exhaust data"
+      },
+      {
+        "title": "Reference data",
+        "_ariaLevel": 0,
+        "body": "<p>Reference data is data that defines values to be used by other data.</p><p>Reference data becomes the most valuable when combined with other datasets.</p><p>Reference data can be open, shared or closed. For example, a dataset of&nbsp;<a href=\"https://data.gov.uk/dataset/country-register-2\" target=\"_blank\">country codes</a>&nbsp;is open data. However, a reference dataset&nbsp;of risk codes or product IDs&nbsp;might be shared, either within an organisation (internal access) or between organisations (group-based access).</p>",
+        "_graphic": {
+          "src": "course/en/assets/5892e013c63c3e5525029800030d49adc209ac12.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/DCzpr09cTXY\" target=\"_blank\">Mikołaj</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Reference data"
+      },
+      {
+        "title": "Transactional Data",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Transactional data is data which represents the completion of a business action or course of actions (e.g. the sale of a product).&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/33d07a1f0429e028d8dec59c84b2a48aeeb968c6.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/close-up-photography-of-yellow-green-red-and-brown-plastic-cones-on-white-lined-surface-163064/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Transactional Data"
+      },
+      {
+        "title": "Measurement Data",
+        "_ariaLevel": 0,
+        "body": "<p>Measurement data is data that records the result of ascertaining or determining the magnitude or quantity of something.&nbsp; It is commonly also referred to as Analytical Data (e.g. KPIs or Trends etc.)</p>",
+        "_graphic": {
+          "src": "course/en/assets/5e6b09ebd818019053c8a173522152d33f8770b1.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/marketing-businessman-person-hands-6802052/\" target=\"_blank\">Anna Nekrashevich</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Measurement Data"
+      },
+      {
+        "title": " Metadata",
+        "_ariaLevel": 0,
+        "body": "<p>Metadata is information about other data that is common to all the other data categories (e.g. Data Type and Data Format</p>",
+        "_graphic": {
+          "src": "course/en/assets/b78107e2faea3fc5a1a4b7865928037a38cbf0ce.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/close-up-view-of-plasma-256302/\" target=\"_blank\">Pixabay</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Metadata"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Data Categories",
+    "displayTitle": "Data Categories",
+    "body": "",
+    "_id": "628379e7134761027a960c0e",
+    "_parentId": "628379d6134761027a960c0d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Why",
+        "_ariaLevel": 0,
+        "body": "<p>Defining a clear categorisation of BSI data enables governance and processes solutions to optimise data ownership and management responsibilities.</p>",
+        "_graphic": {
+          "src": "course/en/assets/115a3d51c968a39837f9eab9d41054c7717b607e.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/oZuBNC-6E2s\" target=\"_blank\">Towfiqu Barbhuiya</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Why"
+      },
+      {
+        "title": "What",
+        "_ariaLevel": 0,
+        "body": "<p>Apply a consistent set of criteria to review and organise data by relevant categories within the enterprise so data may be used in the right manner for organisational purposes.</p>",
+        "_graphic": {
+          "src": "course/en/assets/cc38976c5f5696f5a5d42da2a0c191d20a450735.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/wAgY02N9bdM\" target=\"_blank\">Joshua Hoehne</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "What"
+      },
+      {
+        "title": "How",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">In collaboration with stakeholders and using a standardised approach, data can be categorised into primary categories (Master Data, Reference Data, Transactional Data, Measurement Data &amp; Metadata).</p>",
+        "_graphic": {
+          "src": "course/en/assets/161f5c02d40e2838d8b9a5d0598f6b58e85a1a3c.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://unsplash.com/photos/wAgY02N9bdM\" target=\"_blank\">Joshua Hoehne</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "How"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "62a7187b134761027a960e4f",
+    "_parentId": "62837392134761027a960bf4",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f0efdfe2fa762dbdfc8136f0eec3f78587d9a9d8.jpg",
+      "small": "course/en/assets/f0efdfe2fa762dbdfc8136f0eec3f78587d9a9d8.jpg",
+      "attribution": "<a href=\"unknown\" target=\"_blank\">unknown</a> <span class='assetLicence'>[unknown]</span>",
+      "_url": "",
+      "_target": null
+    }
+  }
+]
